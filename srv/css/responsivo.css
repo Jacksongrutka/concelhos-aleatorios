@@ -1,0 +1,12 @@
+@media (max-width: 450px){
+    .corpo{
+        width: 250px;
+    }
+    .corpo .separacao{
+        font-size: 6px;
+    }
+    .corpo .icon{
+        margin-left: 83px;
+    }
+
+}
